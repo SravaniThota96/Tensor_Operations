@@ -2,11 +2,11 @@
 
 Implemented the following using TensorFlow:
 
-- broadcasting
-- string tensors
-- sparse tensors
-- ragged tensors
-- named tensors
+- Broadcasting
+- String tensors
+- Sparse tensors
+- Ragged tensors
+- Named tensors
 - Binary Search
 - Insertion Sort
 - Linear Search
