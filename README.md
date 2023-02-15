@@ -5,7 +5,7 @@ Implemented the following using TensorFlow:
 - broadcasting
 - string tensors
 - sparse tensors
-- raggedtensors
+- ragged tensors
 - named tensors
 - Binary Search
 - Insertion Sort
